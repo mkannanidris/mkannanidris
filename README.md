@@ -1,9 +1,10 @@
-## Hi there 👋, I'm Kanaan (M. Kannan Idris)
+## Hi there 👋, I'm Kanaan
 
 I build **embedded + IoT products** end-to-end — from **schematics/PCBs** and **firmware** to **Linux/Yocto**, containers, and device integration. I even design mechanical enclosures sometimes.
 
 - 🧠 PhD in Electrical Engineering & Computer Science, focused on **Printed Electronics Integration**
-![York University](https://img.shields.io/badge/York%20University-CC0000?style=for-the-badge&logoColor=white)
+
+     ![York University](https://img.shields.io/badge/York%20University-CC0000?style=for-the-badge&logoColor=white)
 
 - 🧑‍💻 Firmware Engineer working on **smart building and connected systems**  
 - 🔌 Experience developing and integrating **embedded devices, sensors, and controllers**  
